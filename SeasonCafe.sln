@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeasonCafe", "SeasonCafe\SeasonCafe.csproj", "{01A27692-9F3C-445C-90C9-61C4A4B24828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01A27692-9F3C-445C-90C9-61C4A4B24828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A27692-9F3C-445C-90C9-61C4A4B24828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A27692-9F3C-445C-90C9-61C4A4B24828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A27692-9F3C-445C-90C9-61C4A4B24828}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {389466E9-3033-4904-9481-4CA7CB638EB5}
+	EndGlobalSection
+EndGlobal
